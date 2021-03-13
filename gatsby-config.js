@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Wood Times`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Harper Trow`,
+      summary: `a beginner wood worker.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
+    description: `Tales from the shop`,
+    siteUrl: `https://wood-times.com/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `harpertrow`,
     },
   },
   plugins: [
@@ -126,5 +126,6 @@ module.exports = {
     // this (optional) plugin enables Progressive Web App + Offline functionality
     // To learn more, visit: https://gatsby.dev/offline
     // `gatsby-plugin-offline`,
+    `gatsby-plugin-postcss`,
   ],
 }
