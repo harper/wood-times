@@ -1,6 +1,10 @@
 module.exports = {
   purge: ["./src/**/*.js"],
-  theme: {},
+  theme: {
+    fontFamily: {
+      redressed: ["Redressed"],
+    },
+  },
   variants: {},
   plugins: [],
 }

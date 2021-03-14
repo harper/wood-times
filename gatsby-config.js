@@ -6,7 +6,7 @@ module.exports = {
       summary: `a beginner wood worker.`,
     },
     description: `Tales from the shop`,
-    siteUrl: `https://wood-times.com/`,
+    siteUrl: `https://www.wood-times.com/`,
     social: {
       twitter: `harpertrow`,
     },
