@@ -1,4 +1,201 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Wood Times]]></title><description><![CDATA[Tales from the shop]]></description><link>https://www.wood-times.com</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 14 Mar 2021 03:01:20 GMT</lastBuildDate><item><title><![CDATA[A Shop is Born]]></title><description><![CDATA[I would be over 6 months of learning about woodworking and chomping at the bit before I was able to start building out a shop space. We…]]></description><link>https://www.wood-times.com/a-shop-is-born/</link><guid isPermaLink="false">https://www.wood-times.com/a-shop-is-born/</guid><pubDate>Fri, 11 Aug 2017 17:00:00 GMT</pubDate><content:encoded>&lt;p&gt;I would be over 6 months of learning about woodworking and chomping at the bit before I was able to start building out a shop space. We finally moved into a new house that had an unfinished garage and I had an opportunity to get started.&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Wood Times]]></title><description><![CDATA[Tales from the shop]]></description><link>https://www.wood-times.com</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 26 Feb 2023 01:40:36 GMT</lastBuildDate><item><title><![CDATA[Every Shop needs a Bench]]></title><description><![CDATA[My dad impressed upon me early on the truism that every good woodshop needs a good bench. As I was just setting up my shop, a fortuitous…]]></description><link>https://www.wood-times.com/003-every-shop-needs-a-bench/</link><guid isPermaLink="false">https://www.wood-times.com/003-every-shop-needs-a-bench/</guid><pubDate>Sat, 14 Oct 2017 17:00:00 GMT</pubDate><content:encoded>&lt;p&gt;My dad impressed upon me early on the truism that every good woodshop needs a good bench. As I was just setting up my shop, a fortuitous sale at my local Woodcrafters helped me set aside my Ikea driven pre-conceived notions that all Swedish wood products are a pile of hot garbage, and I splurged on Sjobergs workbench.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/4fe98b4321520f51af6b2120a6c9d840/2ef06/bench_box.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 133.54430379746836%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,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&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Bench Box&quot;
+        title=&quot;Bench Box&quot;
+        src=&quot;/static/4fe98b4321520f51af6b2120a6c9d840/f058b/bench_box.png&quot;
+        srcset=&quot;/static/4fe98b4321520f51af6b2120a6c9d840/c26ae/bench_box.png 158w,
+/static/4fe98b4321520f51af6b2120a6c9d840/6bdcf/bench_box.png 315w,
+/static/4fe98b4321520f51af6b2120a6c9d840/f058b/bench_box.png 630w,
+/static/4fe98b4321520f51af6b2120a6c9d840/40601/bench_box.png 945w,
+/static/4fe98b4321520f51af6b2120a6c9d840/78612/bench_box.png 1260w,
+/static/4fe98b4321520f51af6b2120a6c9d840/2ef06/bench_box.png 2448w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Knowing what I know now, I would have built my own workbench and saved some money, but it’s kind of hard to build a bench when you don’t already have one. A bit of a chicken and egg problem.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/bbb3d71add0b5d73c9881d81cd013889/2ef06/bench_legs.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 133.54430379746836%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,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&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Bench Legs&quot;
+        title=&quot;Bench Legs&quot;
+        src=&quot;/static/bbb3d71add0b5d73c9881d81cd013889/f058b/bench_legs.png&quot;
+        srcset=&quot;/static/bbb3d71add0b5d73c9881d81cd013889/c26ae/bench_legs.png 158w,
+/static/bbb3d71add0b5d73c9881d81cd013889/6bdcf/bench_legs.png 315w,
+/static/bbb3d71add0b5d73c9881d81cd013889/f058b/bench_legs.png 630w,
+/static/bbb3d71add0b5d73c9881d81cd013889/40601/bench_legs.png 945w,
+/static/bbb3d71add0b5d73c9881d81cd013889/78612/bench_legs.png 1260w,
+/static/bbb3d71add0b5d73c9881d81cd013889/2ef06/bench_legs.png 2448w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;The build process was smooth, producing a quality bench without any of the familiar Ikea construction rage.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/a105020eada2acc87ef98d523145dee6/2a4bc/bench_base.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 75.31645569620254%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAPCAIAAABr+ngCAAAACXBIWXMAAAsTAAALEwEAmpwYAAADk0lEQVR42iXP6VMbBQAF8P0/dBwxBKkEEGttkVKojmlLKCAh5CjUcCQhkIMjyUJONvfm2Owm2U1INvdZSAOhlAZs0psOhgHa6oxOHUeZ0Y6j499g0ZnfvHlf3ocHdJ69MHDlKiz9pmAUpUyyMIK4ZTeWeV9yOlqG6V0dn10YYtDBqdF5wahOMqaXTrJ6+6/3TfD5CsY1LiAe4WlnpVm/KWSSqCY5Um6f4Ho34zxt8NInOnA+5HWsYHAER5IhbzrkjRFowu9QyucuXx78/DwdQAyLhB2qfZsoRYxBFHYblMIR9rvvvNdKaxFO3lxSTuuX5ow6hR+xxFdQkkAfZLHDnbR4UnhzmA2EYFO5EK/tRgIGQcxrDvtgxKoB50S6RalZK8YcKgKFSJ8x6NaEvabVVDhhnT3ejhzvlaM4Cji14KunhfW4E14UR11KEjMHEANiU+KwwudQ+pwgalelV2xBl5Lw6HK4iXRoKsXEyVE5HVsBCBg6riRwq8qplTkkPbbpHp+KGdaxQ2omrhogdaywdnhFzfIpmG7ZAL7ADGHOvVL+50r8p+92APWMwKUaj8ILFvVsGgEzTknGJakkoEdZy8OsuZIy3k8ul0lN1jaVgiZymBpzuyspYofQrAftQBC2OpbmCIMgSTh/3bt98iz5ooz/vp//60XxzdHaqcO1356nXm5hv1TJ10/ysaCvRBhLhOaktglspaJxDLEqxrNe9bMCWs1aH96y17b8B9t4bdv/1mm563+y5nyctz0vYpsRW8oyc7AReHNQAjI+NIa6raBcwOySjjKEHPrE8Ffc3g5e/0Ve38X/c2SgS3CjRzzCUIlYch49H8BeV9f+fnkPKCXimSDhgfQLE2xQyAZl08zeqzRqXcuHlOaGutZGSlsTte0Mlc0aVCrmNTL+DJ9F+gM/Vjb++aEKFCPhOIqg0DKiAxmdZ2enRD1fdH9U/35zA4VG/YDWQGlppLY21vczrshlcva1btgKwWb7bjb+5/ePgATmQQ06FDKSCDLGGuo8d+7TpjO0+rrT5X+aqJRmKqW97eNL7e0zAgEZjkBaaCsZ/+PVUyDqQSMolg6EbkXi6XBMrwQ5X/fzhgZF43y5WLQglUhFwjEuZ4zLtUDGXDpXXN2I4OTh/Qcn+ztvP2dK6dzd1UL5dqmYymXDJO52IXYbgXpCfl80GPQ6nVa9LujDd8vVO+t3tjfvpUKJ/d3HR6Xkv49LyOPOhjIqAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Bench Base&quot;
+        title=&quot;Bench Base&quot;
+        src=&quot;/static/a105020eada2acc87ef98d523145dee6/f058b/bench_base.png&quot;
+        srcset=&quot;/static/a105020eada2acc87ef98d523145dee6/c26ae/bench_base.png 158w,
+/static/a105020eada2acc87ef98d523145dee6/6bdcf/bench_base.png 315w,
+/static/a105020eada2acc87ef98d523145dee6/f058b/bench_base.png 630w,
+/static/a105020eada2acc87ef98d523145dee6/40601/bench_base.png 945w,
+/static/a105020eada2acc87ef98d523145dee6/78612/bench_base.png 1260w,
+/static/a105020eada2acc87ef98d523145dee6/2a4bc/bench_base.png 3264w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;The top was made from thick, bulletproof maple and there were variable locations where you could seat the dual vises, which I found over time to be super useful. Something to keep in mind whether you are building or buying.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/487cc665ce718c296cbe2743493e18a7/2ef06/bench_top.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 133.54430379746836%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,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&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Bench Top&quot;
+        title=&quot;Bench Top&quot;
+        src=&quot;/static/487cc665ce718c296cbe2743493e18a7/f058b/bench_top.png&quot;
+        srcset=&quot;/static/487cc665ce718c296cbe2743493e18a7/c26ae/bench_top.png 158w,
+/static/487cc665ce718c296cbe2743493e18a7/6bdcf/bench_top.png 315w,
+/static/487cc665ce718c296cbe2743493e18a7/f058b/bench_top.png 630w,
+/static/487cc665ce718c296cbe2743493e18a7/40601/bench_top.png 945w,
+/static/487cc665ce718c296cbe2743493e18a7/78612/bench_top.png 1260w,
+/static/487cc665ce718c296cbe2743493e18a7/2ef06/bench_top.png 2448w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;As the bench came together, I pondered over the mysterious holes in the top, not knowing they would be the future homes to bench dogs, holdfasts, and other benchtop curiousities that still lurked just past the limits of my knowledge.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/c9863c50bcbd9c85eb6b60048e6066a9/2a4bc/bench.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 75.31645569620254%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAPCAIAAABr+ngCAAAACXBIWXMAAAsTAAALEwEAmpwYAAADnklEQVR42gGTA2z8ACofJDoxNFFGQ1FCPDwyMB8ZG0k8MldIPVVGOVFBMzkuJkU4KiUdGTwtIyYdGhoSFBkSEx0WFTcwHikjIAApISQvKClLREhTS0tPOy01MTIuLS0uKio+OTY1LCgUDw8uFhIhExEaExMdFhUZEhImHB0kGBwZEhkdFhoAKCIkJSEiHBkbPDs9WEc5SUE6OTk4PTg1Vk9JKyMcJR0ZWSgeMh4aMSUhMikmJB4dGRIWGxMXJiIoODI0AD43NyEcH3JoYNnHsNzIsNXApci3ncm2mcOylrSkibWliq+jibKkjLWokbaql7yvnoV6bi8uMBsaIB4aIABBOjpsYFv558z/8tT+79L+68386Mb55b/24rv45L3z4rn147z147776sf/8tL98tX/+NrGtqNGRUojIiwAV0xGsJmF2b+l0Lqh0LqgzrqfoZF4k4NqlIVrkIJplIdtlolwmo10nI52npB6oJF9o5OAppJ9WVBJTkpIAHtuYWxeT2dZSkg8M1NJPFZINVhOPVdOPltRQFpQO19WQWFZRWNZRFlOOl1WSVFIPWNdUV5USnlzaIB5bABlWVB2al6Ge29gU0VuY1ROPSs9LR09LR47LB08LBw8LB08LR47LB5MPSt6c2JvZ1qrqKGkoJyYlJCEfnoAWUxHZVhOfXFmaVxOYlNBX0s2PCsaPi4cPCwbOioZOysbPi4cOywcU0MufmtRbGRY0c3Q19TbzsnOzcfPAGJUTHFlW4J2a3ZpXFBBLlBBLU0+Kk1AKks/KUk8KEY5Jko9KUxAK05CLVdINHRsW7OvsdrR0aeYj7arsQB4aGGLe3KGd25yZVpiU0JjVUREPTMyKyEvKB4xKR8xKiAvKB9BPjRYUUJkWUdqZluIhoOvpaGPgXqtpasAhXVvg3RtfW5mdGdeYlNDVktARj86Ix0YIx0YIhwXJB8ZJh8aOjgzRUE5YFdIb29qd3VyqaSmgm1mp5iVAIN1b4J0bXxtZnpsZGVWTDUtKDMsJyIbFyIcGCEbFyMdGSMdGS8qJTAqJVFMRndxanlvYqKfoaudkKGQfgCBcm19bmd2Z2B1Z2FzaGRUS0g0LSknIBwlHhokHholHxslHxwrJCE/PDlfXlt2c2+BcmKWkY+nn6ODa2wAhHJwf3Fuem5pe29se29sYlhVRjw5MSkmLCQhKyQgLCUhLSYjOTIvUU5MbWtoe3p6hXhukIR7squ0dVVeGEBGIL/fXbwAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Bench&quot;
+        title=&quot;Bench&quot;
+        src=&quot;/static/c9863c50bcbd9c85eb6b60048e6066a9/f058b/bench.png&quot;
+        srcset=&quot;/static/c9863c50bcbd9c85eb6b60048e6066a9/c26ae/bench.png 158w,
+/static/c9863c50bcbd9c85eb6b60048e6066a9/6bdcf/bench.png 315w,
+/static/c9863c50bcbd9c85eb6b60048e6066a9/f058b/bench.png 630w,
+/static/c9863c50bcbd9c85eb6b60048e6066a9/40601/bench.png 945w,
+/static/c9863c50bcbd9c85eb6b60048e6066a9/78612/bench.png 1260w,
+/static/c9863c50bcbd9c85eb6b60048e6066a9/2a4bc/bench.png 3264w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;A bench is the heart of a woodshop, the seed from which all future projects will flow. Make sure you buy or build a good one. It will serve you well.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/602fa484b8cec5e3b316783376be11d7/2a4bc/bench_done.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 75.31645569620254%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAPCAIAAABr+ngCAAAACXBIWXMAAAsTAAALEwEAmpwYAAADhElEQVR42hXLS08iBwAA4PkTTWrasGvEgrAquOKqiKDruqK8hhkeA8wMMwwM82CAQd4PKchLRQFXxUeV7dau1m7WNGmT9tikp6b39tJLk96aXpoeetm2yXf9gFYsBFnsX3dy1yXqQMAONgMtwdvOx5oZsSagVQGtM0gm4EiR9pB1ibYteZ9p1YqJofcfyEaVwEmGifLRz7uVbtRVImxpwp4NwFsxOivQIm7NhNw5zCL4rDT83G8yBMEVy4JGMTY5JJE9kquAfiZ40SzUongCg2MY6DatoLa1KOHmCY/g3UgQtjy+UWBx1uMEl7SgYVavUo5IFUMSuXpsHOBgIwuvYdZV1eQkbH5G+lEMdZC49z+UD8xwUDYM7e80RTpaoEWLYUWtUHz4UPbBA9myZgawGBZHpXKZ9CPlyMiEXPl4Zm5Wv4g4bTxuEilTkTWlaLMHcVNuxzaX0M3NSkdk7w0NS4blz3V6AFrW6pVynfTh/3lC80RnJKjAdikSts4XiLUyC/bq8f16ssyDDLQUts/pZjUGnd5kNBq0OmBZJYcfScNPtX4PLEQivBDrn3W/uHv5/Xd3v/x4//vP3/760939YDsEzZMbk44lpUY17nFYfU4ruL4KqIclM1JJJx28uey9/vTks6v9b+6v/v7rz3fv/vnjtx8Oq8xhq9Sq5sMExBE2H/h0ZXEeR+ykF3ZZjACFkm8uTrs8vLsl3gy6V8eV3l7x9mLnvJ3hfOtx0pRinTQBsRwZ4Qgu5A1gDtPa6qpBv6LVArdHu18ebJnn1ZtC+FV/97hdPurWW6VImjLnI+5o2GNeW/B7rWIsnEvxMRZHnZaxUfm4TPF4fAp4W6VEzI4j7tOD+nm3cdqpf3Lcvh10j3dzsM2omVbPP5kivZAQwqI0HmdwlnCTiG1henpcqQEaSW7Qbb4dnFz2dvp7lX67ejvoX591LvcLCLjuBjcYAuEpH+Vz+F22oM9BY07CDdqNq3NTGuDVYfP1Sfu4Wa5n48U4s1fOfHXz8s314Ly309pKl1JCNs6mIsFNLpBgyTjtZ3AX4QJRyIyCZuCsVaqmBJ7EAogr6EWSbKhT+3jw4uBop9YoZXJxLhtlCyK3nUs0isnyJp+gMQZ1BBCIgEGgmY7lhTDj9zEEGqXIjMC3SrlOpfiiUWkU0sU4V02LzWK6nk/WsmIlyWc5Ugz6gi4Qs5r+BWLnZYRPpb4HAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Bench Done&quot;
+        title=&quot;Bench Done&quot;
+        src=&quot;/static/602fa484b8cec5e3b316783376be11d7/f058b/bench_done.png&quot;
+        srcset=&quot;/static/602fa484b8cec5e3b316783376be11d7/c26ae/bench_done.png 158w,
+/static/602fa484b8cec5e3b316783376be11d7/6bdcf/bench_done.png 315w,
+/static/602fa484b8cec5e3b316783376be11d7/f058b/bench_done.png 630w,
+/static/602fa484b8cec5e3b316783376be11d7/40601/bench_done.png 945w,
+/static/602fa484b8cec5e3b316783376be11d7/78612/bench_done.png 1260w,
+/static/602fa484b8cec5e3b316783376be11d7/2a4bc/bench_done.png 3264w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[A Shop is Born]]></title><description><![CDATA[It would be over 6 months of learning about woodworking and chomping at the bit before I was able to start building out a shop space. My…]]></description><link>https://www.wood-times.com/002-a-shop-is-born/</link><guid isPermaLink="false">https://www.wood-times.com/002-a-shop-is-born/</guid><pubDate>Fri, 11 Aug 2017 17:00:00 GMT</pubDate><content:encoded>&lt;p&gt;It would be over 6 months of learning about woodworking and chomping at the bit before I was able to start building out a shop space. My family finally moved into a new house that had an unfinished garage and I had an opportunity to get started.&lt;/p&gt;
 &lt;p&gt;The space was a small, beautiful blank slate. It would be just enough for what I needed.&lt;/p&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
@@ -98,7 +295,7 @@
       /&gt;
   &lt;/a&gt;
     &lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;I temporarily suspended my budget and all sense of fiscal responsibility as I bought my first set of tools in what I was starting to suspect would end up being an expensive hobby.&lt;/p&gt;
+&lt;p&gt;I temporarily suspended my budget and all sense of fiscal responsibility as I bought my first set of tools. I was beginning to suspect this would end up being an expensive hobby. Little did I know.&lt;/p&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
@@ -130,12 +327,12 @@
         loading=&quot;lazy&quot;
       /&gt;
   &lt;/a&gt;
-    &lt;/span&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Making with Atoms]]></title><description><![CDATA[Welcome Reader, My name is Harper Trow, and these are some stories from my forays into the world of woodworking. I hope over time there are…]]></description><link>https://www.wood-times.com/making-with-atoms/</link><guid isPermaLink="false">https://www.wood-times.com/making-with-atoms/</guid><pubDate>Sat, 17 Dec 2016 13:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Welcome Reader,&lt;/p&gt;
-&lt;p&gt;My name is Harper Trow, and these are some stories from my forays into the world of woodworking. I hope over time there are a few stories here that will speak to you, to invite you to make things with your hands, and even if you already have some experience, to offer a few new tricks for your bag.&lt;/p&gt;
-&lt;p&gt;My path into woodworking started just a few years back in the Winter of 2016 with a certain type of itch. You see, I make custom software for a living, working in the ephemeral, conceptual world of bits all day. While this practice involves a nice mix of creativity and logical thinking, if you really think about it a certain way, all that I really produce at the of the day are a bunch of bits in a computer. The work results in pride for a job well done and happy customers, but there was something missing.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;&lt;strong&gt;I began searching for a way to make things with my hands that resulted in outcomes that were more tangible. A kind of work that resulted in atoms, not bits.&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;I had enjoyed woodworking with my father when I was younger, helping him on a few projects, and it always stuck in my head as something I might want to get into one day. I just needed a space.&lt;/p&gt;
-&lt;p&gt;It was in this state of mind that I was given a book by Nick Offerman called Good Clean Fun &lt;a href=&quot;https://www.amazon.com/Good-Clean-Fun-Misadventures-Offerman/dp/1101984651&quot;&gt;(link)&lt;/a&gt;.&lt;/p&gt;
+    &lt;/span&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Making with Atoms]]></title><description><![CDATA[Welcome Reader! My name is Harper Trow. Here you will find some stories from my forays into the world of woodworking. I hope you find a few…]]></description><link>https://www.wood-times.com/001-making-with-atoms/</link><guid isPermaLink="false">https://www.wood-times.com/001-making-with-atoms/</guid><pubDate>Sat, 17 Dec 2016 13:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Welcome Reader!&lt;/p&gt;
+&lt;p&gt;My name is Harper Trow. Here you will find some stories from my forays into the world of woodworking. I hope you find a few stories here that will speak to you, to invite you to make things with your hands. Even if you already have some experience, I hope you will find a few new tricks for your bag.&lt;/p&gt;
+&lt;p&gt;My path into woodworking started several years back in the Winter of 2016 with a certain type of itch. I make software for a living, working in the ethereal, conceptual world of bits all day. While this practice involves a lovely mix of creativity and logical thinking, if you take a step back and look at it a certain way, all that I really produce at the of the day are a bunch of bits floating around the internet. The work results in pride for a job well done just as much as any other trade, but there was a missing balance with the world of the concrete.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;I began searching for a way to make things with my hands that resulted in outcomes that were more tangible. A kind of work that produced atoms, not bits.&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;I had enjoyed woodworking with my father when I was younger, helping him with a few projects, and it always stuck in my head as something I might want to get into one day. I just needed a space.&lt;/p&gt;
+&lt;p&gt;It was in this state of mind that I was given &lt;a href=&quot;https://www.amazon.com/Good-Clean-Fun-Misadventures-Offerman/dp/1101984651&quot;&gt;a book by Nick Offerman called Good Clean Fun&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 522px; &quot;
@@ -165,5 +362,5 @@
       /&gt;
   &lt;/a&gt;
     &lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;It is a playful tome that exudes an obvious love for the craft and has served as a fun and thoughtful on-ramp into the art of woodworking. I cannot recommend this book highly enough; it is definately worth a read or three. Before long, I found myself dreaming of a future shop space and working on a huge list of projects that I wanted to do.&lt;/p&gt;
+&lt;p&gt;It is a playful tome that exudes an obvious love for the craft and has served as a fun and thoughtful on-ramp into the art of woodworking. I cannot recommend this book highly enough. It is definately worth a read. Before long, I found myself dreaming of a future shop space and working on a huge list of projects that I wanted to do.&lt;/p&gt;
 &lt;p&gt;I found a group of Youtubers that have super high quality woodworking videos, pulled together a couple of other books, and my education began.&lt;/p&gt;</content:encoded></item></channel></rss>
