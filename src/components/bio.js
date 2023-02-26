@@ -48,7 +48,7 @@ const Bio = () => {
           <p className="pt-3 text-lg text-gray-700">
             Shop stories by {author.name}, {author?.summary || null} Start here
             <Link
-              to="making-with-atoms/"
+              to="001-making-with-atoms/"
               className="p2 float-right mt-1 ml-1"
               title="new to the site? start here"
             >
