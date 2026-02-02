@@ -105,6 +105,7 @@ module.exports = {
               }
             `,
             output: "/rss.xml",
+            title: "Wood Times RSS Feed",
           },
         ],
       },
