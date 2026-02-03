@@ -29,7 +29,7 @@ const BlogIndex = ({ data, location }) => {
 
           return (
             <li
-              className="bg-white rounded-xl p-8 shadow-md hover:shadow-lg"
+              className="bg-white rounded-xl p-8 shadow-md hover:shadow-lg border border-amber-200"
               key={post.fields.slug}
             >
               <Link to={post.fields.slug} itemProp="url">
