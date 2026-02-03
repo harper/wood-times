@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200">
+  <rect width="200" height="200" fill="#deb887"/>
+  <!-- Wood grain lines -->
+  <g stroke="#c9a66b" stroke-width="1" fill="none" opacity="0.6">
+    <path d="M0,10 Q50,8 100,12 T200,10"/>
+    <path d="M0,25 Q60,22 120,28 T200,24"/>
+    <path d="M0,38 Q40,42 90,36 T200,40"/>
+    <path d="M0,55 Q70,52 130,58 T200,54"/>
+    <path d="M0,68 Q45,72 95,66 T200,70"/>
+    <path d="M0,85 Q55,82 115,88 T200,84"/>
+    <path d="M0,100 Q65,96 125,104 T200,100"/>
+    <path d="M0,115 Q50,118 100,112 T200,116"/>
+    <path d="M0,130 Q60,126 120,134 T200,130"/>
+    <path d="M0,145 Q45,148 95,142 T200,146"/>
+    <path d="M0,160 Q55,156 115,164 T200,160"/>
+    <path d="M0,175 Q65,178 125,172 T200,176"/>
+    <path d="M0,190 Q50,186 100,194 T200,190"/>
+  </g>
+  <!-- Darker grain accents -->
+  <g stroke="#a67c52" stroke-width="0.5" fill="none" opacity="0.4">
+    <path d="M0,18 Q55,15 110,20 T200,17"/>
+    <path d="M0,48 Q45,52 95,46 T200,50"/>
+    <path d="M0,78 Q60,74 120,80 T200,76"/>
+    <path d="M0,108 Q50,112 100,106 T200,110"/>
+    <path d="M0,138 Q65,134 125,140 T200,136"/>
+    <path d="M0,168 Q55,172 105,166 T200,170"/>
+    <path d="M0,198 Q60,194 110,200 T200,196"/>
+  </g>
+  <!-- Subtle knot hints -->
+  <ellipse cx="45" cy="95" rx="8" ry="12" fill="none" stroke="#8b6914" stroke-width="1" opacity="0.3"/>
+  <ellipse cx="160" cy="45" rx="6" ry="10" fill="none" stroke="#8b6914" stroke-width="1" opacity="0.25"/>
+  <ellipse cx="120" cy="165" rx="7" ry="11" fill="none" stroke="#8b6914" stroke-width="1" opacity="0.2"/>
+</svg>
