@@ -7,19 +7,19 @@ The holidays were approaching, and I needed gift ideas. What better way to sprea
 
 ![Blank Profile](./blank_profile.png)
 
-The design was straightforward - an ergonomic S-curve that would feel natural in the hand. I traced out a template and cut the profiles on the bandsaw. Oak seemed like the right choice for durability and that classic look.
+The design was straightforward and right out of Nick Offerman's book: an ergonomic S-curve that would feel natural in the hand. I figured out a template based on the dimensions and cut the profiles on the bandsaw. Oak seemed like the right choice for durability and that classic look.
 
 ![Drilled Pair](./drilled_pair.png)
 
-The business end required a forstner bit to create a recess for the bottle cap, plus a smaller hole for mounting the opener hardware. Getting the depth just right took some test cuts on scrap.
+The business end required a forstner bit to create a recess for the bottle cap, plus a smaller hole for an old fashioned nail for the opening lever.
 
 ![Hardware Installed](./hardware_installed.png)
 
-With the hardware test-fitted, I could see the design coming together. The curved handle provided good leverage, and the metal opener sat flush in its recess.
+With the hardware test-fitted, I could see the design coming together.
 
 ![Finishing](./finishing.png)
 
-A few coats of satin finish brought out the grain and would protect against the inevitable beer splashes. Nothing fancy - these were meant to be used, not displayed.
+A few coats of satin finish brought out the grain and would protect against the inevitable beer splashes. Nothing fancy, these were meant to be used.
 
 ![Batch](./batch.png)
 

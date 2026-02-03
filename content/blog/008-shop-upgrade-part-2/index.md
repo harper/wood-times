@@ -7,11 +7,11 @@ With the basic infrastructure in place, it was time for some finishing touches t
 
 ![Shiplap Wall](./shiplap_wall.png)
 
-The centerpiece of this upgrade was a shiplap accent wall. Beyond looking great, the horizontal boards created natural ledges for mounting tool holders and shelves. Speakers flanked the wall for essential shop tunes, and a shelf held the bluetooth receiver. LED strip lighting along the ceiling provided even, shadow-free illumination.
+The centerpiece of this upgrade was a french cleat tool wall. Beyond looking great, the horizontal boards created natural ledges for mounting tool holders and shelves. Speakers flanked the wall for essential shop tunes, and a new shelf held the  receiver. LED strip lighting along the ceiling provided even, shadow-free illumination.
 
 ![Chisel Holder](./chisel_holder.png)
 
-Custom tool holders made from scrap plywood took advantage of the shiplap's horizontal lines. Chisels, screwdrivers, and other hand tools were now visible and within easy reach. No more digging through drawers.
+Custom tool holders made from scrap plywood took advantage of the new cleat wall. Chisels, screwdrivers, and other hand tools were now visible and within easy reach. No more digging through drawers.
 
 ![Drill Bit Holder](./drill_bit_holder.png)
 
@@ -19,7 +19,7 @@ A dedicated drill bit holder with sizes burned into the wood meant no more guess
 
 ![Full Shop](./full_shop.png)
 
-Standing back, the shop had transformed from a raw garage into a proper workspace. The drill press, bandsaw, and other tools were arranged for efficient workflow, with the tool wall serving as command central.
+Standing back, the shop had transformed from a raw garage into a proper workspace. The drill press, bandsaw, and other tools were arranged for efficient workflow, with the tool wall and bench at the core.
 
 ![LED Lighting](./led_lighting.png)
 

@@ -3,11 +3,11 @@ title: Stereo Cozy
 date: "2019-02-03T12:00:00-0500"
 ---
 
-The TV nook above our fireplace had a problem: plenty of room for a big screen, but nowhere elegant to put the stereo receiver and other components. They'd been sitting on an ugly temporary shelf for too long. Time for a custom solution.
+The TV nook above our fireplace had a problem: plenty of room for a big screen, but nowhere elegant to put the stereo receiver and other components.
 
 ![Glue Up](./glue_up.png)
 
-The cabinet needed to fit precisely into the nook dimensions while providing two cubbies for equipment. Walnut plywood gave me the rich color I wanted with the stability needed for a piece that would live in a warm spot above the fireplace.
+The cabinet needed to fit precisely into the nook dimensions while providing two cubbies for equipment. Walnut stained plywood gave me the rich color I wanted with the stability needed for a piece that would live in a warm spot above the fireplace.
 
 ![Cabinet Complete](./cabinet_complete.png)
 
@@ -15,7 +15,7 @@ The finished cabinet in the shop, ready for installation. Clean lines, no visibl
 
 ![Top Detail](./top_detail.png)
 
-The walnut's figure really showed after finish was applied. Those swirling grain patterns are why walnut is such a favorite among woodworkers - it just looks good.
+The figure really showed after finish was applied. The walnut color would match other pieces I had in mind for that room.
 
 ![Installed](./installed.png)
 

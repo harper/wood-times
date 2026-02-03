@@ -3,7 +3,7 @@ title: Spokeshave Kit
 date: "2018-10-15T12:00:00-0500"
 ---
 
-Hand tools have a special place in woodworking. There's something about the direct connection between your hands and the wood that power tools can't replicate. When I spotted a spokeshave kit, I couldn't resist.
+Hand tools have a special place in woodworking. There's something about the direct connection between your hands and the wood that power tools can't replicate. When I spotted a spokeshave kit for sale at the Offerman Wood Shop, I couldn't resist.
 
 ![Top View](./top_view.png)
 

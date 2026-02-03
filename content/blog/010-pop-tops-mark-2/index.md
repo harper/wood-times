@@ -15,14 +15,14 @@ I experimented with several different curve profiles, cutting each on the bandsa
 
 ![Magnet](./magnet.png)
 
-The big upgrade for Mark 2: an embedded rare-earth magnet. No more bottle caps flying across the room or landing in your drink. Pop the cap, and it sticks right to the opener. A forstner bit created a perfectly sized recess for the magnet.
+The big upgrade for Mark 2: an embedded rare-earth magnet. Always on your fridge and ready to go. A forstner bit created a perfectly sized recess for the magnet.
 
 ![Finished](./finished.png)
 
-The finished Mark 2 sitting on its magnetic feet - those are the same magnets used for cap catching, doubling as a display stand. The oak grain really pops after a few coats of finish.
+The oak grain really pops after a few coats of finish.
 
 ![Collection](./collection.png)
 
-A family of openers emerged from the design process. Each one slightly different as I dialed in the curves. The variations in grain pattern meant no two were exactly alike - a feature, not a bug.
+A family of openers emerged from the design process. Each one slightly different as I dialed in the curves. The variations in grain pattern meant no two were exactly alike; a feature, not a bug.
 
 Iteration is everything in design. The Mark 2 openers were better in every way than the originals, and the lessons learned would carry forward to future projects. Sometimes you have to make something twice to make it right.

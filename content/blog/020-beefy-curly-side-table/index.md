@@ -11,7 +11,7 @@ The empty corner next to the couch was prime real estate for a side table. The e
 
 ![Glue Up](./glue_up.png)
 
-The curly maple during glue-up showed off its chatoyance - that shimmer that changes as you move around the wood. This figure is what makes curly maple so prized, and I wanted to maximize its impact.
+The curly maple during glue-up showed off its chatoyance - that shimmer that changes as you move around the wood. This figure is what makes curly maple so prized.
 
 ![Curly Top](./curly_top.png)
 
@@ -19,7 +19,7 @@ Three boards joined for the tabletop, the curl running consistently across the f
 
 ![Finished Outside](./finished_outside.png)
 
-The finished table with dark-stained legs providing contrast to the light maple. Three tiers meant plenty of storage while maintaining visual openness. The industrial-modern mix worked well.
+The finished table with black ink poly legs providing contrast to the light maple. Three tiers meant plenty of storage while maintaining visual openness. The industrial-modern mix worked well.
 
 ![In Place](./in_place.png)
 

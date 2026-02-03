@@ -11,7 +11,7 @@ The design started with a piece of curly maple - those shimmering waves in the g
 
 ![Recessed](./recessed.png)
 
-Rather than through-holes, I wanted recesses that would cradle the glasses securely. This meant careful depth control on the drill press, leaving about a quarter inch of material at the bottom of each hole.
+The top piece rides the rails of the base like an elevator.  Pick it up, and the glasses suspend in the air, held by holes in the top piece like a snifter glass.  Put it down, and the top and bottom collapse together, so you can easily pick the glass out of the lineup.
 
 ![Base Assembled](./base_assembled.png)
 
@@ -23,6 +23,6 @@ The handle was shaped from walnut to match the feet. A comfortable grip was esse
 
 ![In Use](./in_use.png)
 
-The finished flight cart in action, loaded up with a variety from dark stouts to amber ales. The curly maple catches the light beautifully, and the walnut accents tie it all together.
+The finished flight cart in action, loaded up with a variety from dark stouts. The curly maple catches the light beautifully, and the walnut accents tie it all together.
 
 Projects like this are why I got into woodworking - something functional, something beautiful, and something that makes everyday moments a little more special.

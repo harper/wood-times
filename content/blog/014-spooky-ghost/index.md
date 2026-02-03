@@ -3,7 +3,7 @@ title: Spooky Ghost
 date: "2018-10-27T12:00:00-0500"
 ---
 
-Halloween called for a quick project, and I had a helper eager to try out the bandsaw. With proper safety gear - hearing protection and safety glasses - she guided the plywood through the curves of our ghost template.
+Halloween called for a quick project, and my daughter was a helper eager to try out the bandsaw. With proper safety gear - hearing protection and safety glasses - she guided the plywood through the curves of our ghost template.
 
 ![Cutting](./cutting.png)
 
@@ -11,6 +11,6 @@ The bandsaw is a great first power tool for young woodworkers. The blade moves i
 
 ![Finished](./finished.png)
 
-A few coats of white paint, some drilled eye holes, and a cutout smile transformed the plywood blank into a proper spooky ghost. Not bad for an afternoon project.
+A few coats of white paint, some drilled eye holes, and a cutout smile transformed the plywood blank into a proper spooky ghost. Not bad for an afternoon project.  It was on our front yaerd light by the evening.
 
 Sometimes the best projects aren't about fancy joinery or exotic woods. They're about making something fun with someone you care about, and maybe sparking a lifelong interest in making things.

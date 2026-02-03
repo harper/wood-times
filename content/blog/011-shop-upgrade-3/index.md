@@ -11,6 +11,6 @@ Looking down from the doorway, the shop had evolved considerably from its early 
 
 ![Front View](./front_view.png)
 
-The shiplap wall had become the nerve center - hand tools within reach, drill press for precision holes, and the shop vac standing ready. Even the laundry machines to the left got incorporated into the workflow, providing a convenient flat surface for staging parts.
+The French cleat had become the nerve center: hand tools within reach, drill press for precision holes, and the shop vac standing ready. Even the laundry machines to the left got incorporated into the workflow, providing a convenient flat surface for staging parts.
 
 The key insight from this reorganization was accepting that a shop is never really "done." As your skills grow and your projects change, the space needs to adapt. What works for building picture frames isn't optimal for building furniture. The best shop layout is the one you're willing to keep tweaking.
