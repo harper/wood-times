@@ -11,7 +11,7 @@ With the shop finally set up and the dust collector humming, it was time to put 
 
 ![Frame Pieces](./frame_pieces.png)
 
-The artwork included pieces by Tim Borskiu and other fishing artists. Beautiful ink drawings of trout and tarpon, some with their signature flies attached. The frames needed to be simple enough not to compete with the art, but sturdy enough to protect these signed originals.
+The artwork included pieces by Tim Borski and other fishing artists. Beautiful ink drawings of trout and tarpon, some with their signature flies attached. The frames needed to be simple enough not to compete with the art, but sturdy enough to protect these signed originals.
 
 ![Large Frame](./large_frame.png)
 
