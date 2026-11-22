@@ -5,6 +5,18 @@ updates:
     schedule:
       interval: "weekly"
     open-pull-requests-limit: 10
+    ignore:
+      # Gatsby 5 does not support React 19
+      - dependency-name: "react"
+        update-types: ["version-update:semver-major"]
+      - dependency-name: "react-dom"
+        update-types: ["version-update:semver-major"]
+      # Tailwind 4 is a rewrite with a new config format
+      - dependency-name: "tailwindcss"
+        update-types: ["version-update:semver-major"]
+      # typeface-* 1.x changes the package layout used by font imports
+      - dependency-name: "typeface-*"
+        update-types: ["version-update:semver-major"]
     groups:
       gatsby:
         patterns:
